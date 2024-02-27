@@ -5,9 +5,9 @@ export default function Hero() {
     const config  = {
         subtitle: 'Im a Full-stack developer and Designer',
         social: {
-            twitter: 'https://twitter.com/jvlcode',
-            facebook: 'https://facebook.com/jvlcode',
-            linkedin: 'https://in.linkedin.com/company/jvl-code'
+            twitter: 'https://twitter.com/kishore',
+            facebook: 'https://facebook.com/kishorekanna',
+            linkedin: 'https://www.linkedin.com/in/kishore-kanna-226403222/'
         }
     }
 
